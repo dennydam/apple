@@ -165,34 +165,35 @@ export default {
     font-size: 1rem;
 }
 
-.aa{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: auto;
-  text-align: center;
-  position: relative;
-}
+// .aa{
+//   display: flex;
+//   justify-content: center;
+//   align-items: center;
+//   margin: auto;
+//   text-align: center;
+//   position: relative;
+// }
 
 .ddd{
   margin-top: 100px;
 }
-.zz{
-  text-align: center;
-  position: absolute;
-}
+
 .text{
   margin-bottom: 100px;
 }
 
 #home{
   position: absolute;
-  left: 51%;
+  left: 49%;
   top: 16%;
 }
 
 .col-6{
     max-width: 100%;
+}
+
+.row{
+  margin-top: 100px;
 }
 // @media (max-width: 1268px) {
 //   .aa{
